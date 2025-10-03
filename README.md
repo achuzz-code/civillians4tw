@@ -12,7 +12,7 @@
 | Role | Name | GitHub Profile |
 | :--- | :--- | :--- |
 | **Developer** | [Aswin Uday] | [@achuzz-code](link to your GitHub profile) |
-| **Developer** | [Sarang Krishna Varma] | [@PartnerGitHubUsername](link to partner's GitHub profile) |
+| **Developer** | [Sarang Krishna Varma] | [@nol1ad](link to partner's GitHub profile) |
 
 ---
 
