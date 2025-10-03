@@ -11,8 +11,8 @@
 
 | Role | Name | GitHub Profile |
 | :--- | :--- | :--- |
-| **aswin uday** | [Your Full Name Here] | [@YourGitHubUsername](link to your GitHub profile) |
-| **Team Member 2** | [Your Partner's Full Name Here] | [@PartnerGitHubUsername](link to partner's GitHub profile) |
+| **Developer** | [Aswin Uday] | [@achuzz-code](link to your GitHub profile) |
+| **Developer** | [Sarang Krishna Varma] | [@PartnerGitHubUsername](link to partner's GitHub profile) |
 
 ---
 
